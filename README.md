@@ -1,7 +1,7 @@
 windows10 에서 C# 으로 제작된 프로그램입니다.
 "C:\Tmp\1" 디렉토리에 파일이 생기면 해당 파일을 tomcat8 기반의 서버에 POST 방식으로 업로드하는 프로그램입니다.
 
-![Image](https://github.com/user-attachments/assets/684a2ded-6a3c-4bfc-8338-acf91a1cd118)
+![Image](https://github.com/user-attachments/assets/ce68ced4-2735-47db-9d08-ed07b2680707)
 
 <a href="https://drive.google.com/file/d/1dQJKXW7qta3OPSG76dNijrJ_WjDz_3za/view?usp=drive_link" target="_blank">동영상 링크</a>
 
